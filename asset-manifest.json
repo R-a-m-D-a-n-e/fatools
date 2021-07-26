@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fatools/static/css/main.4f6783df.chunk.css",
+    "main.js": "/fatools/static/js/main.c8cfad41.chunk.js",
+    "main.js.map": "/fatools/static/js/main.c8cfad41.chunk.js.map",
+    "runtime-main.js": "/fatools/static/js/runtime-main.8359dd4c.js",
+    "runtime-main.js.map": "/fatools/static/js/runtime-main.8359dd4c.js.map",
+    "static/css/2.56780da1.chunk.css": "/fatools/static/css/2.56780da1.chunk.css",
+    "static/js/2.b7032ad3.chunk.js": "/fatools/static/js/2.b7032ad3.chunk.js",
+    "static/js/2.b7032ad3.chunk.js.map": "/fatools/static/js/2.b7032ad3.chunk.js.map",
+    "static/js/3.cf8ae434.chunk.js": "/fatools/static/js/3.cf8ae434.chunk.js",
+    "static/js/3.cf8ae434.chunk.js.map": "/fatools/static/js/3.cf8ae434.chunk.js.map",
+    "index.html": "/fatools/index.html",
+    "static/css/2.56780da1.chunk.css.map": "/fatools/static/css/2.56780da1.chunk.css.map",
+    "static/css/main.4f6783df.chunk.css.map": "/fatools/static/css/main.4f6783df.chunk.css.map",
+    "static/js/2.b7032ad3.chunk.js.LICENSE.txt": "/fatools/static/js/2.b7032ad3.chunk.js.LICENSE.txt",
+    "static/media/logo.b7cbbec8.png": "/fatools/static/media/logo.b7cbbec8.png",
+    "static/media/index.css": "/fatools/static/media/montserrat-latin-900italic.efcaa0f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8359dd4c.js",
+    "static/css/2.56780da1.chunk.css",
+    "static/js/2.b7032ad3.chunk.js",
+    "static/css/main.4f6783df.chunk.css",
+    "static/js/main.c8cfad41.chunk.js"
+  ]
+}
